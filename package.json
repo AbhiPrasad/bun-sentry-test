@@ -1,0 +1,14 @@
+{
+  "name": "bun-sentry-test",
+  "module": "index.ts",
+  "type": "module",
+  "dependencies": {
+    "@sentry/node": "^7.68.0"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
